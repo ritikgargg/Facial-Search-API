@@ -1,3 +1,5 @@
+# Facial Search API
+
 **1. What does this program do?**
 
 The objective of this assignment is to develop a secure API service, with the primary function of performing a **facial search** on a database of images.
